@@ -1,0 +1,24 @@
+{
+  "name": "1-atividade-de-ppi",
+  "version": "1.0.0",
+  "description": "reajuste de salario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "vinicius",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvnicius-ship-it/1-ATIVIDADE-DE-PPI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cvnicius-ship-it/1-ATIVIDADE-DE-PPI/issues"
+  },
+  "homepage": "https://github.com/cvnicius-ship-it/1-ATIVIDADE-DE-PPI#readme"
+}
